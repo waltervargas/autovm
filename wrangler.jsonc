@@ -3,5 +3,9 @@
   "compatibility_date": "2025-11-26",
   "assets": {
     "directory": "."
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
   }
 }
